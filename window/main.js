@@ -11,7 +11,3 @@ but.addEventListener('click', ()=>{
 getSearhButton.addEventListener('click', ()=>{
     getSearhDiv.forEach((child) => child.classList.remove('window'));
 }); 
-
-// getSearhButton.addEventListener('click', ()=>{
-//     getSearhDiv.forEach((child) => child.classList.remove('window'));
-// })
