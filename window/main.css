@@ -13,7 +13,7 @@
 }
 
 .window {
-    display: inline-flex;
+    display: flex;
     justify-content: flex-end;
     align-items: flex-start;
     position: absolute;
@@ -21,7 +21,4 @@
     left: 0;
     right: 0;
     margin: 0px auto;
-    z-index: 1;
-    
-    
 }

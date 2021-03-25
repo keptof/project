@@ -2,8 +2,8 @@ const fChildren = document.body.querySelectorAll('.f-child');
 const sChildren = document.body.querySelectorAll('.s-child');
 const tChildren = document.body.querySelectorAll('.t-child');
 
-const but = document.getElementById('btn');
 
+const but = document.getElementById('btn');
 
 
 let count = 1;
